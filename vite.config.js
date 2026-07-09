@@ -8,5 +8,5 @@ import react from "@vitejs/plugin-react";
 // (https://<user>.github.io/), leave base as "/"
 export default defineConfig({
   plugins: [react()],
-  base: "/majestic-helper/",
+  base: "/majestic/",
 });
